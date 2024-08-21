@@ -1,6 +1,7 @@
 h1{
     color:blue ;
     font-family: "Playfair Display", serif;
+    font-size: 86px;
 }
 
 h2{
@@ -10,6 +11,10 @@ h2{
 }
 
 .hero{
-background-color: F9F7FE;
-text-align: center;}
+background-color: #F9F7FE;
+text-align: center;
+font-weight: bold;
+line-height: 2;
+
+}
 
